@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nothile-Moyo-Git
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development, ( Front end or back end I love both! )
 - 🌱 I’m currently learning React and JavaScript Frameworks alongside AWS S3 Buckets
 - 📫 How to reach me
 Email: nothile1@gmail.com
