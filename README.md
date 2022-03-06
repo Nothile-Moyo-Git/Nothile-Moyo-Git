@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nothile :)
 - 👀 I’m interested in Web Development, ( Front end or back end I love both! )
-- 🌱 I’m currently learning React, Node.js, Cannon.js & AWS!
+- 🌱 I’m currently learning React, Node.js, Three.js & AWS!
 - 📫 How to reach me
 Email: nothile1@gmail.com
 LinkedIn: https://www.linkedin.com/in/nothile-moyo-114599122/
