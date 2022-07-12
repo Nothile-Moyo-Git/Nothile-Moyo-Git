@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nothile :)
+- 👋 Hi, I’m Nothile :). Welcome to my Github
 - 👀 I’m interested in Web Development, ( Front end or back end I love both! )
 - 🌱 I’m currently learning React, Node.js, Three.js & AWS!
 - 📫 How to reach me
