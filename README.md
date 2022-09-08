@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nothile :). Welcome to my Github
-- 👀 I’m interested in Web Development, ( Front end or back end I love both! )
+- 👀 I'm interested in Javascript....any python
 - 🌱 I’m currently learning React, Node.js, Three.js & AWS!
 - 📫 How to reach me
 Email: nothile1@gmail.com
