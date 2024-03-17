@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nothile :). Welcome to my Github
-- 👀 I'm interested in Javascript, 3d, C# and PHP
+- 👀 I'm interested in JavaScript, TypeScript, React, Node, AWS, Java, Spring & Three.js
 - 🌱 I’m currently learning React, Node.js, Three.js & AWS!
 - 📫 How to reach me
 Email: nothile1@gmail.com
